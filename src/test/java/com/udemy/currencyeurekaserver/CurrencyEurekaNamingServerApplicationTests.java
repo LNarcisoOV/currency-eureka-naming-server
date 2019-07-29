@@ -1,4 +1,4 @@
-package com.udemy.eurekaserver.currencyEurekaNamingServer;
+package com.udemy.currencyeurekaserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
